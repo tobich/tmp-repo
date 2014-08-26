@@ -2,6 +2,6 @@
     "name": "tmp-repo",
     "version": "1.0.0",
     "dependencies": {
-        "core3-orion-vendor": "git+ssh://git@github.com/wix/core3-orion-vendor.git"
+        "core3-orion-vendor": "git+ssh://git@github.com/wix/core3-orion-vendor.git#54e5de010d7058786b5229294b6bf01c0fc08d41"
     }
 }
