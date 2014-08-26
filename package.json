@@ -1,0 +1,6 @@
+{
+    "name": "tmp-repo",
+    "dependencies": {
+        "core3-orion-vendor": "git+ssh://git@github.com/wix/core3-orion-vendor.git"
+    }
+}
